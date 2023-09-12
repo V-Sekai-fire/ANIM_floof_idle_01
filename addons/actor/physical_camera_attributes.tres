@@ -1,11 +1,13 @@
 [gd_resource type="CameraAttributesPhysical" format=3 uid="uid://4lj277x5ouf4"]
 
 [resource]
+exposure_sensitivity = 80.0
 auto_exposure_enabled = true
 auto_exposure_speed = 0.6
-frustum_near = 0.1
+frustum_focal_length = 24.71
+frustum_near = 0.01
 frustum_far = 500.0
-exposure_aperture = 14.48
-exposure_shutter_speed = 899.378
+exposure_aperture = 16.28
+exposure_shutter_speed = 800.0
 auto_exposure_min_exposure_value = -2.0
 auto_exposure_max_exposure_value = 12.0
